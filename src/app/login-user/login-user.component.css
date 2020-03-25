@@ -1,0 +1,21 @@
+.form-login input[type=text]{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: rgba(0, 120, 10, 1);
+    font-size: 18px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.form-login button{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 0.5px solid rgba(0, 120, 10, 1);
+}
